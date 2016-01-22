@@ -1,0 +1,32 @@
+PB1
+Part a
+1 yes
+2 no
+3 no
+4 yes
+5 no
+6 no
+
+Part b
+1 & 4
+
+Part c
+1 False
+2 True
+3 False
+
+Part d
+1 False
+2 True
+3 True
+
+PB2
+Part a
+123
+
+Part b
+git add hw1q2b.cpp
+git log -p -3
+
+Part c
+git will prompt for a message using the message text editor
