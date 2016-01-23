@@ -8,7 +8,7 @@ Part a
 6 no
 
 Part b
-1 & 4
+345
 
 Part c
 1 False
